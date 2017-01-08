@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_images_fetched">No Images Fetched</string>
+    <string name="sort_default">popular</string>
+    <string name="poster">POSTER</string>
+    <string name="sort_by">Sort by</string>
+    <string name="settings">Settings</string>
+</resources>
